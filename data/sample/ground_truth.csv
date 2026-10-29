@@ -1,0 +1,5 @@
+issue_id,entity,record_id,issue_type,expected_decision,description
+GT-00001,Invoice,INV-STU-000059-2026-000060,DUPLICATE_INVOICE,FLAG_FOR_REVIEW,A duplicate invoice candidate was labelled for review.
+GT-00002,Refund,REF-0000001,REFUND_EXCEEDS_NET_PAID,FLAG_FOR_REVIEW,Refund exceeds the payment amount before other refunds.
+GT-00003,Eligibility,TEST-SCHOLARSHIP-OVER-ELIGIBLE-FEES,SCHOLARSHIP_EXCEEDS_ELIGIBLE_FEES,REJECT_OR_CAP_AWARD,Synthetic negative test fixture; not part of valid baseline transaction tables.
+GT-00004,Ledger,TEST-BALANCE-MISMATCH,BALANCE_DISAGREES_WITH_LEDGER,FLAG_FOR_REVIEW,Synthetic negative test fixture; reconciliation must detect a deliberately altered expected balance.

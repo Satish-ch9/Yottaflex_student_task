@@ -1,0 +1,23 @@
+{
+  "generator": "app.generator.generate_dataset",
+  "seed": 20261022,
+  "term_id": "TERM-2026-FALL",
+  "generated_on": "2026-10-28",
+  "synthetic_only": true,
+  "anomalies_enabled": true,
+  "row_counts": {
+    "Student": 100,
+    "Program": 20,
+    "FeeSchedule": 60,
+    "Enrollment": 300,
+    "Invoice": 300,
+    "InvoiceLine": 1193,
+    "Scholarship": 3,
+    "Eligibility": 900,
+    "Payment": 500,
+    "PaymentAllocation": 431,
+    "Refund": 11,
+    "LedgerEvent": 731
+  },
+  "ground_truth_rows": 5
+}

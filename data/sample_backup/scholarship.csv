@@ -1,0 +1,4 @@
+scholarship_id,scholarship_name,term_id,award_type,award_value,min_income_band,required_residency,active
+SCH-2026-000001,Access Grant,TERM-2026-FALL,PERCENT,25,LOW,,1
+SCH-2026-000002,Domestic Support Award,TERM-2026-FALL,FIXED,500,MEDIUM,DOMESTIC,1
+SCH-2026-000003,Need-Based Award,TERM-2026-FALL,PERCENT,15,LOW,,1
